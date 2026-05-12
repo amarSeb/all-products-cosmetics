@@ -1,0 +1,9 @@
+all-products-cosmetics/
+│── app/
+│   ├── layout.js
+│   └── page.js
+│
+│── package.json
+│── tailwind.config.js
+│── postcss.config.js
+│── globals.css
